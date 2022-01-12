@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TANMAY SUKHIJA</h1>
 <h3 align="center">I am a Frontend Web Developer from India.</h3>
 
-- 🔭 I’m currently working on **something new.**
+- 🔭 I’m currently working on **Web 3.0 Blockchain**
 
 - 🌱 I’m currently learning **React Native**
 
