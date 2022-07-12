@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TANMAY SUKHIJA</h1>
 <h3 align="center">I am a Frontend Developer from India.</h3>
 
-- 🔭 I’m currently working on **Web 3.0 Blockchain**
+- 🔭 I’m currently working on a **Dating App for Specially-abled**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-two-gray.vercel.app/](https://portfolio-two-gray.vercel.app/)
 
